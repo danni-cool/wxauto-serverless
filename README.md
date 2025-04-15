@@ -1,6 +1,6 @@
 # wxauto-serverless
 
-`wxauto-serverless` 是一个极简的基于 Flask 的轻量级无服务器函数运行平台，支持动态部署和调用 Python 函数。它还集成了日志记录功能，便于调试和监控。
+`wxauto-serverless` 实现了一个极简的基于 Flask 的轻量级无服务器函数运行时，支持动态部署和调用 Python 函数。它还集成了日志记录功能，便于调试和监控。
 
 ## 功能
 
